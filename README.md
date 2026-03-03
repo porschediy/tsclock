@@ -6,7 +6,7 @@ Modded APK for Android Dual Screen MTK Radio
 
 Initial modifications to stock files from TorstenH from the XDAForums ([https://xdaforums.com/m/torstenh.11460295/](https://xdaforums.com/m/torstenh.11460295/)) which added Pictures/tsclock.png override of text below center logo.
 
-Also special thanks to [Santrix](https://www.youtube.com/@porscheDIY) for helping with updated graphics.
+Also special thanks to [Santirx](https://www.youtube.com/@porscheDIY) for helping with updated graphics.
 
 # Code Signing
 
